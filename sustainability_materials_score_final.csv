@@ -1,0 +1,73 @@
+Material,Type,Used In,Sustainability Score
+Organic Cotton,Sustainable,"Clothing, Bags, Filters",90
+Bamboo,Sustainable,"Brushes, Cutlery, Toys, Hairbrushes",95
+Hemp,Sustainable,"Bags, Clothing",92
+Flax Linen,Sustainable,"Dresses, Apparel",88
+Coconut Oil,Sustainable,"Soap, Deodorant",85
+Soy Wax,Sustainable,"Candles, Crayons",87
+Jojoba Oil,Sustainable,"Wraps, Cosmetics",86
+Tree Resin,Sustainable,Wraps,80
+Natural Rubber,Sustainable,"Shoes, Toys",83
+Cornstarch Bioplastic (PLA/PBAT),Sustainable,"Bags, Plates",78
+Recycled Polyester,Sustainable,"Jackets, Clothing",75
+Recycled Paper,Sustainable,"Towels, Cards",85
+Upcycled Cotton/Denim,Sustainable,"Clothing, Toys",82
+"Scrap Metal (Brass, Copper)",Sustainable,Jewelry,80
+Recycled Glass,Sustainable,"Candles, Jars",85
+Recycled Kraft Paper,Sustainable,"Packaging, Wrapping",84
+Terracotta,Sustainable,"Pots, Planters",88
+Beeswax,Sustainable,Wraps,89
+Sisal or Coconut Fiber,Sustainable,Brush Bristles,85
+FSC-Certified Paper,Sustainable,"Books, Cards",86
+Plastic (General),Unsustainable,Conventional Packaging,15
+PVC (Polyvinyl Chloride),Unsustainable,"Plumbing, Cheap Toys",10
+Synthetic Polyester,Unsustainable,Fast Fashion,20
+Acrylic,Unsustainable,"Knitwear, Plastic Goods",18
+Non-recycled Paper,Unsustainable,Office Supplies,30
+Conventional Cotton,Unsustainable,Mass Clothing,35
+Aluminum (Virgin),Unsustainable,"Cans, Foils",40
+Lyocell (TENCEL),Sustainable,"Clothing, Bedding",90
+Ramie,Sustainable,Fabrics,88
+Kapok Fiber,Sustainable,"Stuffing, Insulation",85
+Camel Wool,Sustainable,Textiles,80
+Algae-Based Foam,Sustainable,"Shoes, Yoga Mats",92
+Recycled Cotton,Sustainable,"Apparel, Bags",82
+Pinatex (Pineapple Leather),Sustainable,"Bags, Shoes",91
+Mycelium (Mushroom Leather),Sustainable,"Fashion, Packaging",94
+Apple Leather,Sustainable,"Wallets, Bags",89
+Recycled Nylon (ECONYL),Sustainable,"Swimwear, Activewear",85
+Biodegradable TPU,Sustainable,"Packaging, Accessories",80
+Camel Dung Paper,Sustainable,Stationery,90
+Palm Leaves,Sustainable,"Plates, Bowls",86
+Corn Husks,Sustainable,"Packaging, Crafts",84
+Luffa,Sustainable,Sponges,87
+Seaweed-based Plastic,Sustainable,Packaging,90
+Banana Fiber,Sustainable,"Textiles, Paper",88
+Jute,Sustainable,"Bags, Rugs",85
+Raffia,Sustainable,"Hats, Mats",84
+Stone Paper,Sustainable,Notebooks,80
+Bagasse,Sustainable,"Plates, Containers",82
+Bamboo Charcoal Fiber,Sustainable,Textiles,81
+Milk Protein Fiber,Sustainable,Fabrics,83
+Wool (Ethically Sourced),Sustainable,"Clothing, Blankets",80
+Chitosan (Shrimp Shells),Sustainable,Bioplastics,86
+Polystyrene (Styrofoam),Unsustainable,"Cups, Packaging",5
+Nylon (Virgin),Unsustainable,Textiles,25
+Faux Leather (PVC-based),Unsustainable,"Bags, Shoes",10
+Polycarbonate,Unsustainable,"Eyewear, Bottles",20
+Epoxy Resin,Unsustainable,"Coatings, Crafting",15
+Melamine,Unsustainable,Dishes,20
+ABS Plastic,Unsustainable,"Toys, Electronics",25
+Polyurethane Foam,Unsustainable,Mattresses,18
+PET (Virgin),Unsustainable,Water Bottles,30
+Teflon (PTFE),Unsustainable,Cookware,12
+Lead-Based Paint,Unsustainable,Old Products,5
+Chlorinated Plastic,Unsustainable,Packaging,10
+Virgin Rubber,Unsustainable,"Shoes, Tires",30
+Non-Biodegradable Foam,Unsustainable,Packaging,10
+PVC Flooring,Unsustainable,Construction,15
+Plastic-Coated Paper,Unsustainable,"Cups, Boxes",20
+Non-Recycled Aluminum,Unsustainable,"Cans, Foil",35
+Virgin Steel,Unsustainable,Construction,40
+Synthetic Latex,Unsustainable,"Gloves, Balloons",28
+Microplastics,Unsustainable,"Cosmetics, Clothing",2
